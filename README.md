@@ -17,7 +17,7 @@ SCT is currently set to the RATE of 1SCT = 1WEI and only one cant be purchased a
 - The CrowdSale.sol used by the token sale contract was taken from openzeppelin V2.x and adapted to fit V4.x which      supports solidity ^0.8.0.
 - project has ongoing unit testing located in "./test" directory. The test files are managed by truffle and chai testing framework.
 # Next Updates
-- Work on frontend react styling. *Add login button
+- Work on frontend react styling. *Add MetaMask login button
 - Enable multiple token purchase
 - integrate backend with Moralis
 - Add deflationary features to Central Token.
