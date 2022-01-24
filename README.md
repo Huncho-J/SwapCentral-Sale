@@ -3,8 +3,8 @@
 # Description
 SwapCentral is a decentralized exchange for ERC20 cryptocurrencies. This project functions as an ICO or CrowdSale of the DEX platform. The project is still in its initial, phase and is meant to document my progress when it comes to my  understanding of DEFI and DAPP Development as I add to my knowledge.
 
-- The ICO/CrowdSale site is hosted on:https://huncho-j.github.io/SwapCentral-Sale/
-- The MVP for the Exchange is located in it's own repo:https://github.com/Huncho-J/SwapCentral.git
+- The ICO/CrowdSale site is hosted on: https://huncho-j.github.io/SwapCentral-Sale/
+- The MVP for the Exchange is located in it's own repo: https://github.com/Huncho-J/SwapCentral.git
 
 # Interacting with client side
 - Can't purchase Tokens until you connect your MetaMask account and your address has been whitelisted
