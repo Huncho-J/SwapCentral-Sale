@@ -24,10 +24,10 @@ Add deflationary features to Central Token.
 **V2/V3 of DEX maybe be based from forking a popular DEXs like PancakeSwap and UniSwap.
 
 # Built with
-frameworks: Truffle & React.
-backend is powered by smart contracts written in solidity.
-libraries: web3.eth.
-languages: JavaScript & solidity.
+frameworks: Truffle & React
+backend is powered by smart contracts written in solidity
+libraries: web3.eth
+languages: JavaScript & solidity
 
 
 # How to Install and run project [Local Development]
