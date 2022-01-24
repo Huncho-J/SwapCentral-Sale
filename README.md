@@ -1,7 +1,7 @@
 # SwapCentral-Sale
 
 # Description
-SwapCentral is a decentralized exchange for ERC20 cryptocurrencies. This project functions as an ICO or CrowdSale of the DEX platform. The project is still in its initial, phase and is meant to document my progress when it comes to my  understanding of DEFI and DAPP Development as I add to my knowledge.
+SwapCentral is a decentralized exchange for ERC20 cryptocurrencies. This project functions as an ICO or CrowdSale for the DEX platform. The project is still in its initial phase and is meant to document my progress.
 
 - The ICO/CrowdSale site is hosted on: https://huncho-j.github.io/SwapCentral-Sale/
 - The MVP for the Exchange is located in it's own repo: https://github.com/Huncho-J/SwapCentral.git
@@ -13,12 +13,12 @@ SwapCentral is a decentralized exchange for ERC20 cryptocurrencies. This project
 
 SCT is currently set to the RATE of 1SCT = 1WEI and only one cant be purchased at a time. Only 1 million SCT have been minted for this sale.
 # Some project features
-- Central Token and SwapCentral Token Sale contract run on audited openzeppelin smart contract library
-- The CrowdSale.sol used by the token sale contract was taken from openzeppelin V2.x and adapted to fit V4.x which      supports solidity ^0.8.0.
-- project has ongoing unit testing located in "./test" directory. The test files are managed by truffle and chai testing framework.
+- The Central Token and SwapCentral Token Sale contract run on audited openzeppelin smart contract library
+- The CrowdSale.sol used by the token sale contract was taken from openzeppelin V2.x and adapted to fit V4.x which supports      solidity ^0.8.0.
+- project has ongoing unit testing located in the "./test" directory. The test files are managed by truffle and chai testing framework.
 # Next Updates
-- Work on frontend react styling. *Add MetaMask login button
-- Enable multiple token purchase
+- Work on the frontend react styling. *Add MetaMask login button
+- Enable multiple token purchase with MAX purchase set to 500SCT
 - integrate backend with Moralis
 - Add deflationary features to Central Token.
 
