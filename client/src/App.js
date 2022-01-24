@@ -58,7 +58,7 @@ handleInput= (event) =>{
 
 handleKycWhitelist = async () => {
   await this.kycInstance.methods.setKycCompleted(this.state.kycAddress).send({from:this.accounts[0]});
-  alert(this.state.kycaddress + " Has been added to the whitelist!")
+  alert(this.state.kycAddress + " Has been added to the whitelist!")
 }
 
 updateUserBalance= async() =>{
