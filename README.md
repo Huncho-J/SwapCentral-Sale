@@ -22,7 +22,7 @@ SCT is currently set to the RATE of 1SCT = 1WEI and only one cant be purchased a
 - integrate backend with Moralis
 - Add deflationary features to Central Token.
 
-- **V2/V3 of DEX maybe be based from forking a popular DEXs like PancakeSwap and UniSwap
+- **V2/V3 of DEX is based off of forking popular DEXs like PancakeSwap.
 
 # Built with
 - frameworks: Truffle & React
