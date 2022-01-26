@@ -9,7 +9,7 @@ import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 contract CentralToken is ERC20 {
     /// @notice
     /// @dev mints initial token supply to the deployer's account
-    /// @param initialSupply
+    /// @param initialSupply set for CentralToken
     constructor(uint256 initialSupply) ERC20("CentralToken", "SCT") {
         _mint(msg.sender, initialSupply);
     }

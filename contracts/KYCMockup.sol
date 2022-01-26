@@ -1,15 +1,14 @@
 pragma solidity 0.8.0;
 import "@openzeppelin/contracts/access/Ownable.sol";
-
+// SPDX-License-Identifier: MIT
 /// @title KYCMockup
-  /// @notice Acts as whitelisting mechanism for a crowd sale or ICO
 contract KYCMockup is Ownable{
 
   mapping (address => bool) allowed;
   /**
   /// @notice takes an address as input to be whitelisted
   /// @dev sets user whitelisted status to true. makes use of openzepplins "onlyOwner". onlyOwner is the account that deployed this contract.
-   /// @param _addr
+   /// @param _addr is users/inevstor's address
   */
   function setKycCompleted(address _addr) public onlyOwner{
     allowed[_addr] = true;
