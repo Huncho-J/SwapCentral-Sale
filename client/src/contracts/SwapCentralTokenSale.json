@@ -6743,8 +6743,8 @@
     "3": {
       "events": {},
       "links": {},
-      "address": "0x5452F17221fE96eac186691E41902d35d9DD2867",
-      "transactionHash": "0x23d121a496ee1b7335aabdae962e59019560f0b6ae2f2b9b9f24990c6271a9bd"
+      "address": "0x15a55ED6aFAE0E85d7656c13b028cA1d7c1274bD",
+      "transactionHash": "0x237a04c2ea38796fa50a22d21a1aa3a93189cf2028fb0425e78de716dd8a7b3e"
     },
     "5777": {
       "events": {},
@@ -6754,7 +6754,7 @@
     }
   },
   "schemaVersion": "3.4.4",
-  "updatedAt": "2022-01-27T17:15:27.380Z",
+  "updatedAt": "2022-01-27T17:34:00.336Z",
   "networkType": "ethereum",
   "devdoc": {
     "details": "is a child contract of CrowdSale.sol",
