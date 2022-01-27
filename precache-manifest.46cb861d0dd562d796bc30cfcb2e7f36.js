@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5dea6c897a2a27b551e182317ba29ceb",
+    "revision": "f03db759ebafe86d0cb1fb8ad861d1ee",
     "url": "/SwapCentral-Sale/index.html"
   },
   {
-    "revision": "7dcd44f421088a3240cf",
+    "revision": "6662adc6a372a6c1dd33",
     "url": "/SwapCentral-Sale/static/css/main.b100e6da.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SwapCentral-Sale/static/js/2.735250a8.chunk.js"
   },
   {
-    "revision": "7dcd44f421088a3240cf",
-    "url": "/SwapCentral-Sale/static/js/main.96da59bd.chunk.js"
+    "revision": "6662adc6a372a6c1dd33",
+    "url": "/SwapCentral-Sale/static/js/main.cfd45183.chunk.js"
   },
   {
     "revision": "b3ba0e105f27e672b5f6",
