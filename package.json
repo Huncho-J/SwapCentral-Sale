@@ -1,5 +1,5 @@
 {
-  "name": "Truffle-Core",
+  "name": "SwapCentral-Sale",
   "version": "1.0.0",
   "description": "",
   "main": "truffle-config.js",
@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "@openzeppelin/contracts": "^4.4.2",
-    "chai": "^4.3.4",
+    "chai": "^4.3.6",
     "chai-as-promised": "^7.1.1",
     "chai-bn": "^0.3.0",
     "dotenv": "^14.2.0"

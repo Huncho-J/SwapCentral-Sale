@@ -10,7 +10,7 @@ contract("CentralToken Test", async(accounts)=>{
  const [deployer, admin, recipient ] = accounts;
 let centralToken, totalSupply;
 
- beforeEach(async () => {
+ before(async () => {
    this.centralToken = await CentralToken.new(process.env.INITIAL_TOKENS_SUPPLY);
  })
 
