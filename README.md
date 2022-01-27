@@ -8,10 +8,11 @@ SwapCentral is a decentralized exchange for ERC20 cryptocurrencies. This project
 
 # Interacting with client side
 - Can't purchase Tokens until you connect your MetaMask account and your address has been whitelisted
-- Enter your MetaMask address to get whitelisted
+- Smart Contracts are on the ropsten testnet. So you will need to be on the Ropsten testnet in your MetaMask account
+- Paste your MetaMask address and click the whitelist button to get whitelisted.
 - Then you can click the purchase tokens button.
 
-SCT is currently set to the RATE of 1SCT = 1WEI and only one cant be purchased at a time. Only 1 million SCT have been minted for this sale.
+SCT is currently set to the RATE of 1SCT = 1WEI and only one cant be purchased at a time. Only 1 million SCT have been minted for this mock sale.
 # Some project features
 - The Central Token and SwapCentral Token Sale contract run on audited openzeppelin smart contract library
 - The CrowdSale.sol used by the token sale contract was taken from openzeppelin V2.x and adapted to fit V4.x which supports      solidity ^0.8.0.
@@ -40,3 +41,5 @@ The following assumes the use of Node @v14.16.0 and Ganache
 - To launch frontend, Navigate to the client folder then run the command: npm run start
 
 - The current truffle-config is set to already match any network you're on.
+
+# Run Solidity Files Test
