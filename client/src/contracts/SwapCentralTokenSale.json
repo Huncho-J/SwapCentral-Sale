@@ -6740,6 +6740,12 @@
     "version": "0.8.0+commit.c7dfd78e.Emscripten.clang"
   },
   "networks": {
+    "3": {
+      "events": {},
+      "links": {},
+      "address": "0x5452F17221fE96eac186691E41902d35d9DD2867",
+      "transactionHash": "0x23d121a496ee1b7335aabdae962e59019560f0b6ae2f2b9b9f24990c6271a9bd"
+    },
     "5777": {
       "events": {},
       "links": {},
@@ -6748,7 +6754,7 @@
     }
   },
   "schemaVersion": "3.4.4",
-  "updatedAt": "2022-01-27T02:28:10.326Z",
+  "updatedAt": "2022-01-27T17:15:27.380Z",
   "networkType": "ethereum",
   "devdoc": {
     "details": "is a child contract of CrowdSale.sol",
