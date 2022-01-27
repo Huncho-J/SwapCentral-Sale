@@ -9,7 +9,7 @@ SwapCentral is a decentralized exchange for ERC20 cryptocurrencies. This project
 # Interacting with client side
 - Can't purchase Tokens until you connect your MetaMask account and your address has been whitelisted
 - Smart Contracts are on the ropsten testnet. So you will need to be on the Ropsten testnet in your MetaMask account
-- Paste your MetaMask address and click the whitelist button to get whitelisted.
+- Paste your MetaMask address and click the whitelist button to get whitelisted
 - Then you can click the purchase tokens button.
 
 SCT is currently set to the RATE of 1SCT = 1WEI and only one cant be purchased at a time. Only 1 million SCT have been minted for this mock sale.
